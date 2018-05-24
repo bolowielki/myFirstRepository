@@ -7,3 +7,6 @@
 [submodule "kamil"]
 	path = kamil
 	url = https://github.com/kamil-mrzyglod/SzkolenieGIT.git
+[submodule "lukasz"]
+	path = lukasz
+	url = https://github.com/SnuffMaster/MyRepoTest.git
