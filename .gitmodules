@@ -1,0 +1,9 @@
+[submodule "staszek"]
+	path = staszek
+	url = https://github.com/bolowielki/myFirstRepository.git
+[submodule "tomek"]
+	path = tomek
+	url = https://github.com/Tomasz1978/tom12.git
+[submodule "kamil"]
+	path = kamil
+	url = https://github.com/kamil-mrzyglod/SzkolenieGIT.git
